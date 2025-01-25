@@ -1,0 +1,35 @@
+body{
+    font-family: "Funnel Sans", sans-serif;
+    color: white;
+}
+.partie1{
+background-color: #8E9BFF ;
+
+}
+
+.partie2{
+
+   background-color: #A54BFF; 
+}
+form{
+
+    margin: auto;
+    border-radius: 22% 78% 0% 100% / 86% 5% 95% 14% ;
+}
+
+#Connexion {
+    
+    text-align: center;
+}
+
+#Inscription{
+    
+    text-align : center 
+
+}
+input {
+border-radius: 30px;
+display: flex;
+width: 100%;
+
+}
